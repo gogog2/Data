@@ -1,12 +1,10 @@
 {
   "noti": [
     {
-      "title": "64",
-      "episode": "4"
+      "name": "64",
+      "branch": "4",
+      "year" : "29339"
     },
-    {
-      "title": "34",
-      "episode": "34"
-    }
+    
   ]
 }
